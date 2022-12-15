@@ -1,4 +1,7 @@
 {
-  "name": "@accord/types",
-  "main": "main.ts"
+  "name": "@acrd/types",
+  "main": "lib/main.js",
+  "scripts": {
+    "install": "tsc"
+  }
 }
